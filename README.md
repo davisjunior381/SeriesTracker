@@ -15,7 +15,7 @@ L’utilisateur peut :
 - Explorer les épisodes disponibles 
  
 
- img 1 arborescence 
+ ![Arborescence](image1.png) 
 
  
 
@@ -48,7 +48,7 @@ Le projet suit le pattern MVVM (Model - View - ViewModel) :
 
 
 ## Structure du projet 
-img 2
+![App view](image.png)
 
 ### Lancement du projet 
 
